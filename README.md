@@ -3,12 +3,12 @@ In Game:
 Start At Home Screen
 
 Software:
-Python Installed
-pyautogui Installed
-numpy Installed
-time Installed
-opencv (FOR PYTHON) Installed
-Make Sure Images are Installed in Images Folder (Just above or below script location)
+Python Installed.
+pyautogui Installed.
+numpy Installed.
+time Installed.
+opencv (FOR PYTHON) Installed.
+Make Sure Images are Installed in Images Folder (Just above or below script location).
 
 Steps:
 1. Install Needed Software
