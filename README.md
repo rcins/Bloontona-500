@@ -1,6 +1,6 @@
 In Game: 
-(Race Pass Is NEEDED)
-Start At Home Screen
+1. (Race Pass Is NEEDED)
+2. Start At Home Screen
 
 Software:
 1. Python Installed.
